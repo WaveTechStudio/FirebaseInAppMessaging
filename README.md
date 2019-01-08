@@ -9,13 +9,13 @@ To get started, your app needs to meet two requirements:
 ## Types of messages
 
 Modal
-<img src="./screens/modal.png" width=“400”/>
+<img src="./Screens/modal.png" width=“400”/>
 
 Image Only
-<img src="./screens/image-only.png" width=“400”/>
+<img src="./Screens/image-only.png" width=“400”/>
 
 Top Banner
-<img src="./screens/banner.png" width=“400”/>
+<img src="./Screens/banner.png" width=“400”/>
 
 ### Dependencies used
 Add the In-App Messaging dependency to your app-level build.gradle:
@@ -33,5 +33,5 @@ Add the In-App Messaging dependency to your app-level build.gradle:
         Log.d("Instance ID ",FirebaseInstanceId.getInstance().getId());
 2. Now add the instance id in the Firebase Console to test the In-App in your device
         Firebase -> In-App Messaging -> New Capaign -> Test on device
-        <img src="./screens/test.png" width=“400”/>
+        <img src="./Screens/test.png" width=“400”/>
 3. After testing you can select the target and timing for the message to show
