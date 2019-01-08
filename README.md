@@ -10,7 +10,7 @@ To get started, your app needs to meet two requirements:
 
 #### Modal
 
-<img src="./Screens/modal.png" width=“100” height=“100”/>
+<img src="./Screens/modal.png" width="100" height="100"/>
 
 #### Image Only
 
@@ -39,6 +39,6 @@ Add the In-App Messaging dependency to your app-level build.gradle:
 
         Firebase -> In-App Messaging -> New Capaign -> Test on device
         
-        <img src="./Screens/test.PNG" width=“100” height=“100”/>
+      <img src="./Screens/test.PNG" width=“100” height=“100”/>
         
 3. After testing you can select the target and timing for the message to show
