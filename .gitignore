@@ -5,7 +5,9 @@
 /.idea/libraries
 /.idea/modules.xml
 /.idea/workspace.xml
+/.go
 .DS_Store
 /build
 /captures
 .externalNativeBuild
+/app/google-services.json
